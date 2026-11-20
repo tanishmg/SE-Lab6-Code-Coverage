@@ -1,0 +1,4 @@
+79a1b65 Add branch coverage tests and evidence
+c612b73 Add code coverage tests for pet walking service
+
+Note: these are local commits only; they have not been pushed to the course GitHub repository.
